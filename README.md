@@ -43,3 +43,8 @@ Con esto, ejecutar el proyecto con:
 ```sh
 npm run start
 ```
+
+## Referencias
+
+
+Libro [Building APIs with Node.js](https://books.google.com.mx/books?id=_i2yDQAAQBAJ&printsec=frontcover&dq=&hl=es&sa=X&ved=0ahUKEwj_lJelo6DmAhUSO60KHX9ACjoQ6AEIKTAA#v=onepage&q&f=false) - Caio Ribeiro Pereira.
